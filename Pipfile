@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyopencl = "~=2020.2"
+
+[dev-packages]
+cython = "~=3.0a6"
+black = "~=20.8b0"
+
+[requires]
+python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true
+
+[packages.e1839a8]
+path = "."
+editable = true

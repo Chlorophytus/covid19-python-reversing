@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/accelshark/.local/share/virtualenvs/covid19-python-reversing-fJ6-pf1-/bin/python",
+    "python.formatting.provider": "black"
+}
